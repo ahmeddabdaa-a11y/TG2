@@ -1,0 +1,6 @@
+{
+  "name": "TG Star Sniper",
+  "description": "Telegram Star Gifts Sniping & Auto-Flipping system with Stealth, Risk Management, and Arabic CLI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
